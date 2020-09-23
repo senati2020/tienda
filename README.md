@@ -29,10 +29,3 @@ Personas que contribuyeron al desarrollo y mantenimiento del proyecto.
 * **Marcelo Arias**
 
 Mira también la lista de [contribuides](https://github.com/senati2020/tienda/graphs/contributors) que participaron en el proyecto.
-
-
-## 📃 Licencia
-Distribuido bajo licencia MIT.
-
-Revisar [`LICENSE`](./LICENSE) para más información.
-
