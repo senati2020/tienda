@@ -28,4 +28,4 @@ Personas que contribuyeron al desarrollo y mantenimiento del proyecto.
 * **Jhon Anderson**
 * **Marcelo Arias**
 
-Mira también la lista de [contribuides](https://github.com/senati2020/tienda/graphs/contributors) que participaron en el proyecto.
+Mira también la lista de [contribuidores](https://github.com/senati2020/tienda/graphs/contributors) que participaron en el proyecto.
