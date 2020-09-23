@@ -1,0 +1,19 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "Tienda integrada con DialogFlow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senati2020/tienda.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senati2020/tienda/issues"
+  },
+  "homepage": "https://github.com/senati2020/tienda#readme"
+}
