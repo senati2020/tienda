@@ -1,0 +1,105 @@
+[33mcommit a4977def3756e731989f51715e4101f03872e9e0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Wed Sep 23 10:00:19 2020 -0500
+
+    Arreglar typo en sección contribuidores en README.md
+
+[33mcommit 3547dfde0fc76d007b72c5522d5c41efdc2fd96b[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Wed Sep 23 09:59:19 2020 -0500
+
+    Eliminar sección de Licencia de README.md
+
+[33mcommit 0df83a70eb36407569db6097959429b2c02c55b5[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Tue Sep 22 23:35:17 2020 -0500
+
+    Crear README.md
+
+[33mcommit b191f45109f4f067ceaebfa714be2c34c305d085[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Tue Sep 22 23:16:25 2020 -0500
+
+    Crear archivo style.css para los estilos principales
+
+[33mcommit 482f539809709569b808cfcc044e9935e6312c81[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Tue Sep 22 23:15:20 2020 -0500
+
+    Crear carpeta de archivos estaticos JavaScript
+
+[33mcommit 0d33c5a5619de2171c5aa4dd426492b8d2ed2038[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Tue Sep 22 23:14:20 2020 -0500
+
+    Crear archivo de tipografia
+
+[33mcommit c47ecbd311079220ad65595d7a598497eaf03d19[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Tue Sep 22 23:14:00 2020 -0500
+
+    Crear archivos de estilos CSS
+
+[33mcommit 0ef838174467286779a20ca747bae98379fac4bd[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Tue Sep 22 23:13:05 2020 -0500
+
+    Crear la carpeta de imagenes en public/img
+
+[33mcommit fcb708c58851de6b3a2bcba42dec7fb6cef9aef9[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Tue Sep 22 23:12:47 2020 -0500
+
+    Actualizar public/index.html para integrar la nueva plantilla
+
+[33mcommit e5f23eab0a847ccfcb482eb5b28912c627a87489[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Tue Sep 22 23:12:19 2020 -0500
+
+    Crear .gitignore
+
+[33mcommit 6e9e4f86425ff8af2152fc8d8150f144b8a42bc8[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Tue Sep 22 22:53:23 2020 -0500
+
+    Crear carpeta public con archivo index.html dentro
+
+[33mcommit 628842e2240acb25702634c93c4618e0002c3426[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Tue Sep 22 22:47:08 2020 -0500
+
+    Crear package.json
+
+[33mcommit cf07fcddfec63fa438e4ee5a863aa32e6209e81b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1ec9882 764a815
+Author: vlady <vlady4780@gmail.com>
+Date:   Tue Sep 22 22:37:44 2020 -0500
+
+    Merge branch 'master' of https://github.com/senati2020/tienda
+
+[33mcommit 764a815f215c7ec63256f3e073836a4d5d7470ae[m
+Merge: 0f00736 677895f
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Tue Sep 22 22:30:20 2020 -0500
+
+    Merge pull request #1 from Luap11/master
+    
+    test
+
+[33mcommit 1ec988236dedec5f1341f6c35428b1de5b301a72[m
+Author: vlady <vlady4780@gmail.com>
+Date:   Tue Sep 22 22:26:15 2020 -0500
+
+    Vlady
+
+[33mcommit 677895fe9de1096773d608608bec8fab7173c4d1[m
+Author: Luap11 <69992375+Luap11@users.noreply.github.com>
+Date:   Tue Sep 22 22:25:13 2020 -0500
+
+    test
+
+[33mcommit 0f007360202cd36776eb910aea4d43461f48c3f4[m
+Author: Marcelo Arias <mail.marcelo.as@gmail.com>
+Date:   Tue Sep 22 22:22:23 2020 -0500
+
+    Initial commit
