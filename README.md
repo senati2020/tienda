@@ -2,7 +2,7 @@
 
 Plataforma web de venta de ropa, construida en NodeJS e integrada con Dialogflow
 
-🌎 [Sitio web disponible](https://shopping-tienda.vercel.app/) 👈
+🌎 [Sitio web disponible](https://shoeshop.vercel.app/) 👈
 
 ## 💻 Despliegue
 ¡Hola! Clona el repositorio **tienda** utilizando el comando `git clone` o el programa GitHub Desktop.
